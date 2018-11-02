@@ -7,18 +7,20 @@
        height:300px;
     }
       button {
-        height: 10px;
-        width: 10px;
+        /* height: 10px;
+        width: 10px; */
         outline: none;
       }
     </style>
   </head>
   <body>
     <div id="current">
-        <p>currently selected: <spam><button id="save"></button></spam></p>
+        <p>currently selected: <spam>
+            <input type="text" value="newname" id="curName">
+            <button id="save">S</button>
+        </spam></p>
         <ul id="tabs"></ul>
     </div>
-    <!-- <button id="changeColor"></button> -->
     <script src="popup.js"></script>
   </body>
 </html>

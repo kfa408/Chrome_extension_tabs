@@ -1,7 +1,7 @@
 {
     "name": "Chrome tabs",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "Store your tabs!",
     "manifest_version": 2,
     "background": {
         "scripts": ["background.js"],
