@@ -1,6 +1,6 @@
 # Chrome extension to organize tabs
 
-For when some tabs are needed for a certain period of time, but not long enough or important enough to bookmark.
+This extension is intended to help people organize their tabs. I often have a large amount of tabs opened for reference for a specific task.  Some of those important references will be bookmarked. However, often times most references are only useful for the duration of the task, and not important enough to clutter up your bookmarks. This extension is to store those reference tabs for the duration that you needed, allowing people to close and reopen those tabs at ease without worrying that those references will be lost.
 
 ## Obtain the extension
 
