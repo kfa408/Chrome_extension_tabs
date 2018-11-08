@@ -2,6 +2,16 @@
 
 For when some tabs are needed for a certain period of time, but not long enough or important enough to bookmark.
 
+## Obtain the extension
+
+To obtain this extension, go to the page on [chrome web store](https://chrome.google.com/webstore/detail/tabs-cache-and-management/ecgfkcddifhjofkeagepcffjakglmoog/)
+
+## Disclaimer:
+
+Even though this extension asks for permission on reading browsing history, it actually does not read your browsing history. It only stores (on your local computer) the urls that you want to select and store.  It is not trying to spy your browsing history.
+
+All the code is in this github repo, so one can verify that I am not trying to spy anyone.
+
 ## Usage
 - Use Shift/Command to select a few tabs:
 

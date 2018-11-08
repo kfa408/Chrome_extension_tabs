@@ -1,7 +1,7 @@
 {
-    "name": "Chrome tabs",
+    "name": "Tabs Cache and Management",
     "version": "1.0",
-    "description": "Store your tabs!",
+    "description": "Store and manage your tabs!",
     "manifest_version": 2,
     "background": {
         "scripts": ["background.js"],
