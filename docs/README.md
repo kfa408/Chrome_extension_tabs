@@ -6,7 +6,7 @@ This extension is intended to help people organize their tabs. I often have a la
 
 To obtain this extension, go to the page on [chrome web store](https://chrome.google.com/webstore/detail/tabs-cache-and-management/ecgfkcddifhjofkeagepcffjakglmoog/)
 
-## Disclaimer:
+## Disclaimer
 
 Even though this extension asks for permission on reading browsing history, it actually does not read your browsing history. It only stores (on your local computer) the urls that you want to select and store.  It is not trying to spy your browsing history.
 
